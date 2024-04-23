@@ -1,0 +1,11 @@
+{
+	"app": "bs://547f7fc24efaf799a5e5455160c1dd2f8d32d195",
+	"device": "iPhone 14",
+	"os_version": "16",
+	"project": "MobileAutomation",
+	"build": "New build",
+	"name": "",
+	"browserstack.appium_version": "1.21.0",
+	"browserstack.selenium_version": "3.141.59",
+	"browserstack.timezone": "Kolkata"
+}
